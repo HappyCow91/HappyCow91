@@ -19,5 +19,5 @@
 ### Databases
 <img src="https://skillicons.dev/icons?i=mysql"/>
 
-### Tools used when i programming
+### Tools
 <img src="https://skillicons.dev/icons?i=vscode,robloxstudio,postman,replit,github,git,gitlab,figma,stackoverflow,netlify,nginx"/>
